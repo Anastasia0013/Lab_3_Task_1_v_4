@@ -1,0 +1,7 @@
+res= 2.21117
+integral_parabola= 2.21117
+absolute error parabola =3.79845e-08
+reative error parabola= 1.71784e-08
+integral_rect= 2.21117
+absolute error rect =2.0505e-09
+reative error rect= 9.27334e-10

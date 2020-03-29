@@ -1,0 +1,7 @@
+res= 0
+integral_parabola= 0
+absolute error parabola =0
+reative error parabola= 0
+integral_rect= 0
+absolute error rect =0
+reative error rect= 0
